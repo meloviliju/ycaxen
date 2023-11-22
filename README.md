@@ -3,5 +3,5 @@
 
 ## Weight
 ### ycaxen Light
-- [書体見本](https:/meloviliju.github.io/ycaxen/light/glyph.html)
+- [書体見本](https://meloviliju.github.io/ycaxen/light/glyph.html)
 - woffファイルパス: https://meloviliju.github.io/ycaxen/light/ycaxen-light.woff
